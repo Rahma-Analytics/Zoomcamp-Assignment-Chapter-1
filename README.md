@@ -36,4 +36,5 @@ Population and sampling:
 A population is the entire group that you want to draw conclusions about. A sample is the specific group that you will collect data from. The size of the sample is always less than the total size of the population. In research, a population doesn't always refer to people.
 The four types of sampling methods are simple random sampling, stratified sampling, cluster sampling and multistage sampling methods. 
 In statistics, a simple random sample is a subset of individuals chosen from a larger set in which a subset of individuals are chosen randomly, all with the same probability. Is a process of selecting a sample in random way. 
+stratified sampling is a method of sampling from a population which can be partitioned into subpopulations.
 
