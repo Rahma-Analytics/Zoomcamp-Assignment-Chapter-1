@@ -60,7 +60,7 @@ Randomized experiment are generally built on four principles, controlling, rando
 
     
 
-      It is important to incorporate the first three experimental design principles into any study, Blocking is a
+    It is important to incorporate the first three experimental design principles into any study, Blocking is a
 slightly more advanced technique, and statistical methods may be extended to analyze
 data collected using blocking.
 
