@@ -45,4 +45,22 @@ cluster sampling is a sampling plan used when mutually homogeneous yet internall
 
 multistage sampling is the taking of samples in stages using smaller and smaller sampling units at each stage.
 
+EXPERIMENT:Studies where the researchers assign treatments to cases are called experiments. When this
+
+assignment includes randomization, e.g. using a coin flip to decide which treatment a patient receives,
+
+it is called a randomized experiment. Randomized experiments are fundamentally important
+when trying to show a causal connection between two variables.
+
+
+PRINCIPLES OF EXPERIMENTAL DESIGN
+
+
+Randomized experiment are generally built on four principles, controlling, randomized, replication and blocking.
+
+    
+
+      It is important to incorporate the first three experimental design principles into any study, Blocking is a
+slightly more advanced technique, and statistical methods may be extended to analyze
+data collected using blocking.
 
