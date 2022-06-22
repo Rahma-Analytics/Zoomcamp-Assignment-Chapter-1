@@ -22,3 +22,14 @@ Treatment group. Patients in the treatment group received a stent and medical ma
 in lifestyle modification.
 Control group. Patients in the control group received the same medical management as the
 treatment group, but they did not receive stents.
+
+DATA BASICS
+Effective organization and description of data is a first step in most analyses. This section
+introduces the data matrix for organizing data as well as some terminology about different forms of
+data, this organization and description methods include:
+Observations, variables, and data matrices.
+
+
+SAMPLING PRINCIPLES AND STRATEGIES
+
+Population and sampling:
